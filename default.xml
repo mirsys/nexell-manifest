@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="nexell" fetch="https://github.com/NexellCorp/" />
+	<default revision="nexell"
+		remote="nexell"
+		sync-j="4" />
+	<include name="nexell-plugins.xml" />
+</manifest>

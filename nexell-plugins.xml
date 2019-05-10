@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="linux_library_nx-drm-allocator" path="nx-drm-allocator" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_nx-v4l2" path="nx-v4l2" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_nx-renderer" path="nx-renderer" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_nx-scaler" path="nx-scaler" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_nx-video-api" path="nx-video-api" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_nx-gst-meta" path="nx-gst-meta" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugin-camera" path="gst-plugins-camera" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugins-renderer" path="gst-plugins-renderer" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugins-scaler" path="gst-plugins-scaler" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugins-video-dec" path="gst-plugins-video-dec" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugins-video-enc" path="gst-plugins-video-enc" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_gst-plugins-video-sink" path="gst-plugins-video-sink" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_libdrm" path="libdrm" groups="nexell-plugins" remote="nexell"/>
+	<project name="linux_library_xf86-video-armsoc" path="xf86-video-armsoc" groups="nexell-plugins" remote="nexell"/>
+</manifest>
